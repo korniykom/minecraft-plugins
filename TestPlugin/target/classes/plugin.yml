@@ -2,3 +2,6 @@ name: TestPlugin
 version: '1.0'
 main: com.korniykom.testPlugin.Main
 api-version: '1.21'
+commands:
+  heal:
+  damage:
