@@ -15,7 +15,7 @@ public class HealCommand implements CommandExecutor {
 
             Player player = (Player) commandSender;
             player.sendMessage("You have been healed");
-            player.setHealth(20);
+            player.setHealth(Integer.valueOf(strings[0]));
             player.getWorld().spawnParticle(Particle.HEART, player.getLocation(), 100);
         }
         return false;
