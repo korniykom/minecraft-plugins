@@ -47,6 +47,8 @@ public final class LeatherMetaPlugin extends JavaPlugin implements Listener {
         e.getPlayer().getInventory().addItem(leggins);
         e.getPlayer().getInventory().addItem(boots);
 
+        e.getPlayer().getWorld().setTime(18000);
+
     }
 
 
