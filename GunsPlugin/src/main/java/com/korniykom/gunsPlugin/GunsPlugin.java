@@ -15,6 +15,7 @@ public final class GunsPlugin extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
+        getCommand("getHoe").setExecutor(new GetHoeCommand());
         Bukkit.getPluginManager().registerEvents(this, this);
     }
 
@@ -32,7 +33,12 @@ public final class GunsPlugin extends JavaPlugin implements Listener {
                 } else if (player.getInventory().getItemInMainHand().getType().equals(Material.IRON_HOE)) {
                     player.launchProjectile(Trident.class, player.getLocation().getDirection());
                 }else if (player.getInventory().getItemInMainHand().getType().equals(Material.GOLDEN_HOE)) {
-                    player.launchProjectile(Fireball.class, player.getLocation().getDirection());
+                    if(player.getInventory().getItemInMainHand().hasItemMeta() && player.getInventory().getItemInMainHand().getItemMeta().hasDisplayName()) {
+                        String displayName = player.getInventory().getItemInMainHand().getItemMeta().getDisplayName();
+                        if(ChatColor.stripColor(displayName).equalsIgnoreCase("Magic Hoe")) {
+                            player.launchProjectile(Fireball.class, player.getLocation().getDirection());
+                        }
+                    }
                 } else if (player.getInventory().getItemInMainHand().getType().equals(Material.DIAMOND_HOE)) {
                     player.launchProjectile(SpectralArrow.class, player.getLocation().getDirection());
                 } else if (player.getInventory().getItemInMainHand().getType().equals(Material.NETHERITE_HOE)) {

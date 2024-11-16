@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcc532e8-0dc2-4ea2-b311-3bfd7d0c13de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/korniykom/gunsPlugin/GunsPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/korniykom/gunsPlugin/GunsPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/korniykom/gunsPlugin/GunsPlugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/korniykom/gunsPlugin/GunsPlugin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-gunsplugin-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-gunsplugin-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/Lecture 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/src/com/max/test/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/src/com/max/test/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/src/com/max/test/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/src/com/max/test/CoffeeSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/src/com/max/test/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/src/com/max/test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/src/com/max/test/Motorbike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/src/com/max/test/SecondClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Basics/src/com/max/test/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Basics/Java-Basics.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ovVvUGjhNY3j00cyLNLDhyJFqF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.gunsplugin [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/max/minecraft-plugins/GunsPlugin"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcc532e8-0dc2-4ea2-b311-3bfd7d0c13de" name="Changes" comment="" />
+      <created>1731750266509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731750266509</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -2,3 +2,5 @@ name: GunsPlugin
 version: '1.0'
 main: com.korniykom.gunsPlugin.GunsPlugin
 api-version: '1.21'
+commands:
+  getHoe:
