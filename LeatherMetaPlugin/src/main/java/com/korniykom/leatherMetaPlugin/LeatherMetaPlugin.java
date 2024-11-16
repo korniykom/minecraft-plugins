@@ -75,10 +75,10 @@ public final class LeatherMetaPlugin extends JavaPlugin implements Listener {
 
         if ( e.getHand().equals(EquipmentSlot.HAND)) {
             if (e.getAction().equals(Action.RIGHT_CLICK_AIR) || e.getAction().equals(Action.RIGHT_CLICK_BLOCK)) {
-                if(player.getInventory().getItemInMainHand() != null && player.getInventory().getItemInMainHand().getType().equals(Material.STICK)) {
+                if(player.getInventory().getItemInMainHand() != null && player.getInventory().getItemInMainHand().getType().equals(Material.DIAMOND_HOE)) {
                    Snowball snowball = (Snowball) player.launchProjectile(Snowball.class, player.getLocation().getDirection());
                     snowball.setGlowing(true);
-                    snowball.set
+
                 }
             }
         }
