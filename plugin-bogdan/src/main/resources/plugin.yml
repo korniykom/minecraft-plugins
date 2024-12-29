@@ -1,0 +1,10 @@
+name: plugin-bogdan
+version: '1.0-SNAPSHOT'
+main: bogdan.com.pluginBogdan.main
+api-version: '1.21'
+commands:
+  heal:
+  damage:
+  creative:
+  survival:
+
