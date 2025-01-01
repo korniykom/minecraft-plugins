@@ -1,0 +1,4 @@
+name: EntitiesKotlin-plugin
+version: '1.0-SNAPSHOT'
+main: max.com.entitiesKotlinPlugin.EntitiesKotlinPlugin
+api-version: '1.21'

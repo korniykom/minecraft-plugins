@@ -1,0 +1,4 @@
+name: BlocksMaterialsItemStack-Kotlin
+version: '1.0-SNAPSHOT'
+main: max.com.blocksMaterialsItemStackKotlin.BlocksMaterialsItemStackKotlin
+api-version: '1.21'
